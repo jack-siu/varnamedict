@@ -1,0 +1,16 @@
+.word_button {
+  outline: none;
+  background: transparent;
+  border: 1px solid transparent;
+  font-size: 20px;
+  color: white;
+}
+
+.word_details {
+  font-size: 12px;
+}
+
+.example_hyperlink {
+  color: #61dafb;
+  text-decoration: none;
+}

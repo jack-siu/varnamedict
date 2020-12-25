@@ -1,0 +1,37 @@
+.appendix_panel {
+  height: 80vh;
+  overflow: scroll;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.appendix_panel__wordcloud_container {
+  margin: 30px 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.appendix_panel__wordcloud_image {
+  width: 270px;
+}
+
+.appendix_panel__download_link {
+  color: #61dafb;
+}
+
+.appendix_panel__download_link_container {
+  padding: 5px;
+}
+
+@media screen and (min-width: 600px){
+  .appendix_panel {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .appendix_panel__wordcloud_image {
+    width: 650px;
+  }
+}
+

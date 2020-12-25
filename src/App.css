@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* Style the tab */
+.tab {
+  border-bottom: #61dafb solid 3px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the buttons inside the tab */
+.tab_button {
+  background-color: #353e50;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 9px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+/* Change background color of buttons on hover */
+.tab_button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab_button--active {
+  background-color: #61dafb;
+  color: black;
+}
+
+.dictionary_panel {
+  height: 75vh;
+  width: 80%;
+}

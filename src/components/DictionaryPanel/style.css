@@ -1,0 +1,25 @@
+
+.search_bar {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 16px;
+  height: 25px;
+  outline: none;
+  text-align: center;
+  position: relative;
+  width: 200px;
+}
+
+.search_result_panel {
+  height: 70vh;
+  overflow: scroll;
+  text-align: left;
+  padding-left: 10px;
+}
+@media screen and (min-width: 600px){
+  .search_result_panel {
+    padding-left: 35%;
+  }
+}
