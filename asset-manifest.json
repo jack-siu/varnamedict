@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/varnamedict/static/css/main.ab0a3c15.chunk.css",
+    "main.js": "/varnamedict/static/js/main.034be906.chunk.js",
+    "main.js.map": "/varnamedict/static/js/main.034be906.chunk.js.map",
+    "runtime-main.js": "/varnamedict/static/js/runtime-main.60d1c5ba.js",
+    "runtime-main.js.map": "/varnamedict/static/js/runtime-main.60d1c5ba.js.map",
+    "static/js/2.77158ca1.chunk.js": "/varnamedict/static/js/2.77158ca1.chunk.js",
+    "static/js/2.77158ca1.chunk.js.map": "/varnamedict/static/js/2.77158ca1.chunk.js.map",
+    "static/js/3.0c328f3a.chunk.js": "/varnamedict/static/js/3.0c328f3a.chunk.js",
+    "static/js/3.0c328f3a.chunk.js.map": "/varnamedict/static/js/3.0c328f3a.chunk.js.map",
+    "index.html": "/varnamedict/index.html",
+    "static/css/main.ab0a3c15.chunk.css.map": "/varnamedict/static/css/main.ab0a3c15.chunk.css.map",
+    "static/js/2.77158ca1.chunk.js.LICENSE.txt": "/varnamedict/static/js/2.77158ca1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d1c5ba.js",
+    "static/js/2.77158ca1.chunk.js",
+    "static/css/main.ab0a3c15.chunk.css",
+    "static/js/main.034be906.chunk.js"
+  ]
+}
